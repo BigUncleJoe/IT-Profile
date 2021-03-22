@@ -1,0 +1,38 @@
+html, body{
+	font-size:16px;
+	color: #ebebeb;
+	background-color: #1d2d50; 
+}
+
+a {
+  color: #00d1b2;
+}
+
+section{
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+.section-1 {
+	background: #1d2d50;
+}
+
+.section-2 {
+	background-color: #133b5c;
+}
+
+.section-3 {
+	background-color: #1e5f74;
+}
+
+.section-4 {
+	background-color: #1d2d50;
+	padding: 0.2rem;
+}
+
+.title {
+	color: rgb(255, 255, 255);
+	text-align: left;
+	margin-bottom: 2rem;
+}
+
